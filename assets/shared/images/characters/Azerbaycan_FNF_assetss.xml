@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="azerbaycan_FNF_assetss.png">
+	<SubTexture name="Azerbaijan Down Note0000" x="5" y="5" width="873" height="657" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Azerbaijan Down Note0001" x="888" y="5" width="873" height="657" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Azerbaijan Down Note0002" x="1771" y="5" width="873" height="657" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="000" x="5" y="672" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0001" x="961" y="672" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0002" x="1917" y="672" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0003" x="5" y="1409" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0004" x="961" y="1409" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0005" x="1917" y="1409" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Idle Dance0006" x="5" y="2146" width="946" height="727" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan NOTE LEFT0000" x="961" y="2146" width="972" height="661" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="Azerbaijan NOTE LEFT0001" x="1943" y="2146" width="972" height="653" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="Azerbaijan NOTE LEFT0002" x="961" y="2817" width="959" height="665"  frameX="-1" frameY="-20" frameWidth="411" frameHeight="412"/>
+	<SubTexture name="Azerbaijan Note Right0000" x="1930" y="2817" width="1002" height="653" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Note Right0001" x="2654" y="5" width="1002" height="653" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Note Right0002" x="2873" y="668" width="1002" height="653" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Up note0000" x="2873" y="1331" width="1025" height="718" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Up note0001" x="2925" y="2059" width="1025" height="718" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Azerbaijan Up note0002" x="2942" y="2787" width="1025" height="718" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+</TextureAtlas>
